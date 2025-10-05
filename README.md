@@ -2,7 +2,7 @@
 
 > Cultivar is a sophisticated, all-in-one web application designed for cannabis growers to meticulously plan, track, and optimize their cultivation cycles. It provides a visually rich, 'greenhouse vibe' interface with earthy tones and intuitive controls. The application's core is a dynamic calendar that auto-generates a feeding schedule based on the selected strain and its growth stages. Users can create detailed 'Grows,' log daily activities like feeding, watering, pH/EC levels, and upload photos to monitor plant health. The application features extensive, pre-populated databases for over 50 cannabis strains and 20+ nutrient brands, complete with detailed information like NPK ratios and dosage instructions. A key feature is the 'Custom Mix Builder,' allowing users to create and save their own nutrient recipes. The platform also provides smart recommendations and data visualizations to help growers make informed decisions. Built on a serverless architecture using Cloudflare Workers and a single Durable Object for state management, Cultivar is designed to be fast, reliable, and scalable.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/virecorenlm/grow-calenar-v2)
 
 ## ✨ Key Features
 
@@ -93,7 +93,7 @@ This application is designed for seamless deployment to the Cloudflare network.
 
 Or deploy directly with one click:
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/virecorenlm/grow-calenar-v2)
 
 ## 📜 Available Scripts
 
